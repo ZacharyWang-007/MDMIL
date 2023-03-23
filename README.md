@@ -1,4 +1,3 @@
 # MDMIL-for-Whole-Slide-Image-Classification
-Against Tumor Heterogeneity: Multiplex-Detection-Based Multiple Instance Learning for Whole Slide Image Classification
-
-Code will be released once the paper is accepted. 
+Pytorch implementation for the hispathology image-based algorithm described in the paper [Targeting tumor heterogeneity: multiplex-detection-based multiple instance learning for whole slide image classification (Bioinformatics 2023)]
+(https://academic.oup.com/bioinformatics/article/39/3/btad114/7067746)
