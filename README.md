@@ -9,7 +9,7 @@ This is the official pytorch implementation of MDMIL[Targeting tumor heterogenei
  
  ## Experiment Results on five TCGA tumor datasets
  <div align="center">
-  <img src="figures/fig2.png" width="400px"/>
+  <img src="figures/fig2.png" >
  </div>
 
  
