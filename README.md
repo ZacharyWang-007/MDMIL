@@ -4,12 +4,12 @@ This is the official pytorch implementation of MDMIL[Targeting tumor heterogenei
 
 ## Pipline
 <div align="center">
-  <img src="Figures/fig1.png">
+  <img src="figures/fig1.png">
  </div>
  
  ## Experiment Results on five TCGA tumor datasets
  <div align="center">
-  <img src="Figures/fig2.png" width="400px"/>
+  <img src="figures/fig2.png" width="400px"/>
  </div>
 
  
@@ -22,9 +22,9 @@ Please install pytorch version >=1.2
  For more details of pre-processing, please refer to [CLAM](https://github.com/mahmoodlab/CLAM).
  
  ## Model training and testing
- before training and testing, please update configs. Generally, we train the model with one 12 GB memory GPU. 
+ before training and testing, please update configs. Generally, we train the model with one 12 GB memory GPU. The output details in terms of loss, accuracy, and AUC will be stored in the logs folder. 
  ~~~~~~~~~~~~~~~~~~
-   python main.py 
+   python train.py 
  ~~~~~~~~~~~~~~~~~~
 
 ## Citation
