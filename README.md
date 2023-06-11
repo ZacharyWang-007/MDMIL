@@ -1,6 +1,5 @@
 # MDMIL-for-Whole-Slide-Image-Classification
-This is the official pytorch implementation of MDMIL[Targeting tumor heterogeneity: multiplex-detection-based multiple instance learning for whole slide image classification (Bioinformatics 2023)]
-(https://academic.oup.com/bioinformatics/article/39/3/btad114/7067746).
+This is the official pytorch implementation of MDMIL[Targeting tumor heterogeneity: multiplex-detection-based multiple instance learning for whole slide image classification (Bioinformatics 2023)](https://academic.oup.com/bioinformatics/article/39/3/btad114/7067746).
 
 
 ## Pipline
